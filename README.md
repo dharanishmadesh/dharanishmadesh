@@ -90,7 +90,7 @@ I'm **Dharanish**, a **Hardware Research Enthusiast** who loves to create innova
 
 ---
 
-### **📊 GitHub Stats:**
+### **📊 GitHub Status:**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharanishmadesh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true)
 
