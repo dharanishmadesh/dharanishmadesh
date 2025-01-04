@@ -47,9 +47,6 @@ I'm **Dharanish**, a **Hardware Research Enthusiast** who loves to create innova
   <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="40" height="40" alt="Raspberry Pi" />
   </a>
-  <a href="https://www.espressif.com/en/products/hardware/esp32/overview" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/ESP32_Logo.svg" width="40" height="40" alt="ESP32" />
-  </a>
 </p>
 
 ---
