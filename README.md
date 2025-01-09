@@ -1,4 +1,4 @@
-# Hey there  ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) **I'm Dharanish**
+# Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) **I'm Dharanish**
 
 **"Passionate about Hardware Innovation | Exploring AI & ML | Building the Future, One Project at a Time"**
 
@@ -92,13 +92,15 @@ I'm **Dharanish**, a **Hardware Research Enthusiast** who loves to create innova
 
 ### **📊 GitHub Status:**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharanishmadesh&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharanishmadesh&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dharanishmadesh&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+
+
 
 ---
 
 ### **🚀 Fun with Animations!**
+
 ![Naruto Quote Animation](https://media.giphy.com/media/LEV3OJQG0XXnq/giphy.gif?cid=790b7611p8jbewmam6w268vfzerfr83n5v0yxsnbodqss0cs&ep=v1_gifs_search&rid=giphy.gif&ct=g)  
 **Naruto Quote**: *"A lesson without pain is meaningless. That’s because no one can gain without sacrificing something. But by enduring that pain and overcoming it, he shall obtain a powerful, unmatched heart."*  
 - This quote is a constant reminder to keep pushing forward and not give up, no matter how challenging life may get.
