@@ -1,3 +1,5 @@
+
+
 # Hey there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) **I'm Dharanish**
 
 **"Passionate about Hardware Innovation | Exploring AI & ML | Building the Future, One Project at a Time"**
@@ -53,7 +55,7 @@ I'm **Dharanish**, a **Hardware Research Enthusiast** who loves to create innova
 
 ### **🌍 Where I'm Based:**
 - **India** 🇮🇳  
-- **Connect with me**: [LinkedIn](https://www.linkedin.com/in/dharanish-m-690127256/) | [GitHub](https://github.com/dharanishmadesh) | [Medium](https://medium.com/@waranmadesh826)
+- **Connect with me**: [LinkedIn](https://www.linkedin.com/in/dharanish-m-690127256/) | [GitHub](https://github.com/dharanishmadesh) | [Medium](https://medium.com/@waranmadesh826) | [Portfolio](https://dharanishmadesh.github.io/resume-portfolio/)
 
 ---
 
@@ -83,8 +85,11 @@ I'm **Dharanish**, a **Hardware Research Enthusiast** who loves to create innova
   <a href="https://medium.com/@waranmadesh826" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" alt="Medium" />
   </a> 
-  <a href="mailto:waranmadesh826@ngmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:waranmadesh826@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a> 
+  <a href="https://dharanishmadesh.github.io/resume-portfolio/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-0891b2?style=flat&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
@@ -93,9 +98,6 @@ I'm **Dharanish**, a **Hardware Research Enthusiast** who loves to create innova
 ### **📊 GitHub Status:**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharanishmadesh&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true)
-
-
-
 
 ---
 
@@ -116,4 +118,7 @@ I'm **Dharanish**, a **Hardware Research Enthusiast** who loves to create innova
 
 ### **💡 Let's Innovate Together!**
 
-Thanks for visiting my portfolio! If you're interested in collaborating on a project or just want to chat about tech, feel free to connect! Let's build something amazing together. 🚀
+Thanks for visiting my portfolio! If you're interested in collaborating on a project or just want to chat about tech, feel free to connect! Let's build something amazing together. 🚀  
+
+---
+
